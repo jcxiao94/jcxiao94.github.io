@@ -1,0 +1,1 @@
+- 2012.09-2016.06, Hunan Normal University, B.S.c
