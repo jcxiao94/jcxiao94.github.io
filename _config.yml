@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jian-Ci Xiao"
-description              : "Fractal Geometry"
+description              : ""
 repository               : "jcxiao94/jcxiao94.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jian-Ci Xiao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Zhejiang University"
-  location         : "Zhejiang Hangzhou"
+  bio              : "The Chinese University of Hong Kong"
+  location         : "Shatin, Hong Kong"
   employer         : #"The Chinese University of Hong Kong"
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : 
   email            : "jcxiao@math.cuhk.edu.hk"
-  researchgate     : ""
+  MathSciNet     : ""
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jcxiao94"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
